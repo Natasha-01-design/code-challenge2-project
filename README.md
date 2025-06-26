@@ -20,9 +20,6 @@ Categorize guests with color tags.
 Save guest data to the browser’s localStorage (data persists across page refreshes).
 
 Project Structure
-bash
-Copy
-Edit
 project/
 ├─ index.html           # Main HTML layout
 ├─ style.css            # Styles for layout and design
